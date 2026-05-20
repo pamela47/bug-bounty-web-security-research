@@ -30,5 +30,14 @@ Initial observations:
 
 - Platform uses JSON API responses
 - Cloud integrations appear dynamically loaded
+- ## Evidence
+
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/01-dashboard-overview.png)
+
+### Cloud API Mapping
+
+![Cloud API Mapping](screenshots/02-cloud-api-mapping-redacted.png.png)
 - Backend functionality appears API-driven
 - Mapping performed through passive reconnaissance and observation
